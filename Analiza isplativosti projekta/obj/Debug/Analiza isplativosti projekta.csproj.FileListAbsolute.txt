@@ -1,0 +1,22 @@
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\Analiza isplativosti projekta.exe.config
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\Analiza isplativosti projekta.exe
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\Analiza isplativosti projekta.pdb
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza isplativosti projekta.csprojAssemblyReference.cache
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza isplativosti projekta.csproj.GenerateResource.cache
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza isplativosti projekta.csproj.CoreCompileInputs.cache
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza isplativosti projekta.exe
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza isplativosti projekta.pdb
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza_isplativosti_projekta.Forms.Prihodi_Form.resources
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza_isplativosti_projekta.Properties.Resources.resources
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza_isplativosti_projekta.Homepage_Form.resources
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza_isplativosti_projekta.Forms.Troskovi_Form.resources
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza_isplativosti_projekta.Forms.Profit_Forms.resources
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\LiveCharts.pdb
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\LiveCharts.xml
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza isplativosti projekta.csproj.CopyComplete
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\obj\Debug\Analiza_isplativosti_projekta.Forms.DodajNovi_Form.resources
+C:\Users\MavenMule\source\repos\Ekonomska izvedivost projekta\Analiza isplativosti projekta\bin\Debug\WindowsBase.dll

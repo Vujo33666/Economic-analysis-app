@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ekonomska_isplativost" Class="ProfitDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-UNFIPTJ;Initial Catalog=ekonomska_isplativost;Integrated Security=True" SettingsObjectName="Analiza_isplativosti_projekta.Properties.Settings" SettingsPropertyName="ekonomska_isplativostConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblProfit" Member="tblProfits">
+    <Type Name="tblProfit">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="year" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="years_in_progress" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ukupni_prihodi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ukupni_troskovi" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="profit" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

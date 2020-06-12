@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PrihTros">
+  <DataContextMoniker Name="/PrihTrosDataContext" />
+  <nestedChildShapes>
+    <classShape Id="893508d3-e1c3-490b-9018-a75b840c2fd0" absoluteBounds="2.125, 1.875, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/PrihTrosDataContext/tblPrihTro" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1db22015-1d20-4fb6-91e6-2b6840cb57fb" absoluteBounds="2.14, 2.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
